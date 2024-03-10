@@ -1,0 +1,14 @@
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background: #2d2d34;
+    transition: 0.3s;
+    color: white;
+}
+
+.content h1 {
+    font-size: 40px;
+    letter-spacing: 0.9px;
+}

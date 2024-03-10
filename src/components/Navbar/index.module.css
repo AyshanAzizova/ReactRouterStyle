@@ -1,0 +1,29 @@
+nav{
+    
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.5);
+    /* font-size: 16px; */
+}
+.logo{
+    color: black;
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.active{
+    color: red;
+    background-color: aqua;
+}
